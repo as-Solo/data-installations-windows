@@ -17,6 +17,12 @@
 
 - Finally you must close the terminal and open again. 
 
+- Puede que necesites decirle al ordenador donde buscar. Lo haremos con este comando:
+        
+        export PATH="/home/username/miniconda/bin:$PATH"
+       
+  el username debe ser cambiado por tu nombre de usuario para que el ordenador encuentre la ruta
+
 **4.2. Create an environment**
 - Create an environment:  
 
