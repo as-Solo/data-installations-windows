@@ -21,7 +21,9 @@
         
         export PATH="/home/username/miniconda/bin:$PATH"
        
-  el username debe ser cambiado por tu nombre de usuario para que el ordenador encuentre la ruta
+  el username debe ser cambiado por tu nombre de usuario para que el ordenador encuentre la ruta. Y puede que si no te funciona con el comando anterior, te funcione con el         siguiente:
+  
+        export PATH=~/anaconda3/bin:$PATH
 
 **4.2. Create an environment**
 - Create an environment:  
